@@ -4,7 +4,7 @@ This project is a fully functional Pomodoro Timer application built using **Reac
 
 The project demonstrates the Agent's ability to handle complex state management and multi-file changes based on natural language instructions.
 
-## 🚀 Features
+##  Features
 
 * **Two Cyclical Modes:** The user can switch between two predefined cyclical modes:
     * **Intense Mode:** 45 minutes of Work followed by 15 minutes of Break.
@@ -14,7 +14,7 @@ The project demonstrates the Agent's ability to handle complex state management 
 * **Visual Feedback:** Displays the remaining time in minutes and seconds.
 * **Audio Alert:** Plays a sound notification when the timer transitions between Work and Break sessions.
 
-## 🛠️ Setup and Installation
+##  Setup and Installation
 
 This project requires Node.js and npm/yarn.
 
@@ -37,7 +37,7 @@ This project requires Node.js and npm/yarn.
     ```
     The application will typically run on `http://localhost:3000`.
 
-## 📝 Documentation
+##  Documentation
 
 This repository includes the following documentation files required for the assignment:
 
